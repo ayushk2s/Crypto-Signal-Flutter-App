@@ -15,4 +15,12 @@ Welcome to the Crypto Signal App, your all-in-one Flutter-powered solution for i
 | 🪙 **Crypto Wallet Integration**       | Link to your wallet and verify on-chain signal execution.                                                 |
 
 
+These are the pages look:-
+| App Home              | Signal Proof          |  Stats                | Wallet & Token        | Profile Dashboard     |
+| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| ![IMG-20250504-WA0007](https://github.com/user-attachments/assets/40adb8da-6f90-42f1-846e-6bdcd68c9bfa) | ![app_ss2](https://github.com/user-attachments/assets/20d292d3-a009-48da-9da8-436f360c9223) | ![IMG-20250504-WA0008](https://github.com/user-attachments/assets/f9e39986-f46b-46a4-966c-0416fa17937f) | ![IMG-20250504-WA0009](https://github.com/user-attachments/assets/c46f5727-cc1e-409b-aea5-cfa06b281d2c) | ![IMG-20250504-WA0012](https://github.com/user-attachments/assets/2f6146f9-cf68-4277-9f82-44e513a1bbe0) |
+
+| Transaction Page         | Transaction Proof  | Screen Record         | 
+| --------------------- | --------------------- | --------------------- |
+| ![IMG-20250504-WA0010](https://github.com/user-attachments/assets/f887a754-afbd-452a-a384-f5a3626cfdc7) | ![IMG-20250504-WA0011](https://github.com/user-attachments/assets/d632d40c-f738-4b2d-90dd-2a64e1ef8fda) | https://github.com/user-attachments/assets/4fbc20b6-ec4d-4a89-bae6-10b77900b3c6
 
